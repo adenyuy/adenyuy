@@ -22,7 +22,7 @@ please be nice!
 ### Tech Stack (Trying to Improve)
 <p align="left">
     <img src="https://skillicons.dev/icons?i=python,html,css,js,php" /> <br>
-    <img src="https://skillicons.dev/icons?i=github,figma,github,notion,vscode" /> <br>
+    <img src="https://skillicons.dev/icons?i=github,figma,notion,vscode" /> <br>
 </p>
 
 ---
